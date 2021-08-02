@@ -1,0 +1,20 @@
+{
+  "name": "clase-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gregorioSass": "Sass --watch scss/style.scss css/style.scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregorioM6/Clase-GITHUB.git"
+  },
+  "author": "Gregorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregorioM6/Clase-GITHUB/issues"
+  },
+  "homepage": "https://github.com/GregorioM6/Clase-GITHUB#readme"
+}
