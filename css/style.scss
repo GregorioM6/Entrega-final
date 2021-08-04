@@ -16,6 +16,12 @@
   width: 30px;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
 .footer .footer__logo {
   width: 50px;
   min-width: 50px;
@@ -31,6 +37,10 @@
 
 .input1:focus {
   font-size: 20px;
+}
+
+#enter {
+  cursor: pointer;
 }
 
 .carousel-item {
