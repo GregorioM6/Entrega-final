@@ -17,13 +17,6 @@
   width: 30px;
 }
 
-.footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-}
-
 .footer .footer__logo {
   width: 50px;
   min-width: 50px;
@@ -51,7 +44,7 @@
   background-image: url("../imagenes/carousel1.jpg");
   background-position: center;
   background-size: cover;
-  min-height: 50vh;
+  min-height: 60vh;
   opacity: 0.9;
 }
 
@@ -61,6 +54,18 @@
 
 .carousel__item--background3 {
   background-image: url("../imagenes/carousel3.jpg");
+}
+
+.carousel__item--background4 {
+  background-image: url("../imagenes/carousel4.png");
+}
+
+.carousel__item--background5 {
+  background-image: url("../imagenes/carousel5.jpg");
+}
+
+.carousel__item--background6 {
+  background-image: url("../imagenes/carousel6.jpg");
 }
 
 .carousel-control-prev-icon,
